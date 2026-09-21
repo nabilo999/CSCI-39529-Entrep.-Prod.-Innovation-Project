@@ -23,3 +23,18 @@ The symptom is that users find planning their week tedious and rigid, even thoug
 ### The Status Quo Competitor  
 
 The primary status quo competitors are Google Calendar, Outlook Calendar, and manual planning methods Canva or paper planners. Most users who want to organize their week either enter events directly into a traditional calendar or simply keep their schedule in their head and plan as they go. These approaches work, but they require users to motivate themselves to consistently maintain their schedules. My app therefore hopes to not just be another scheduling application but a way for people to take back their time in the least friction way possible.
+
+## Project Log 3: Feasibility Validation Framework
+
+### 1. The Primary Research Strategy
+
+I will interview and survey college students who balance classes, work, or personal goals, because they are likely early adopters of a tool that makes weekly planning easier. I will also seek early-career professionals through an online interest form to learn whether the problem continues beyond college. The main open-ended questions will be: “Walk me through how you planned your last week,” “What makes you stop using a calendar or planning app?,” “What tools have you tried and why did they not work for you?,” and “What would make scheduling feel easier or more motivating?” To minimize confirmation bias, I will ask about real past behavior rather than describe my app first, avoid leading questions such as “Would gamification help you?,” include people who do not currently use planners, and record both negative and positive responses before deciding which features to build.
+
+### 2. The Secondary Research Map
+
+I will use [The Business Research Company’s productivity software market report](https://www.thebusinessresearchcompany.com/report/productivity-software-global-market-report) to estimate the overall market size and projected growth in the broader productivity software sector. I will also use [Fortune Business Insights’ productivity software market report](https://www.fortunebusinessinsights.com/productivity-software-market-111484) to examine broader market trends and demand for productivity software. For competitive analysis, I will examine established web-based productivity platforms such as Notion, Todoist, Trello, Asana, Motion, and Sunsama to identify common features, pricing models, and user-facing functionality. Together, these sources will help determine whether there is an established market for web-based productivity tools and how existing products address scheduling and time-management needs.
+
+
+### 3. The Fatal Flaw Filter
+
+The greatest market risk is that users may initially like the idea of a gamified scheduler but will not use it consistently enough for it to be meaningfully different from Google Calendar, Outlook, paper planners, or existing productivity apps. The key evidence to test is whether prospective users report a repeated scheduling problem and whether beta testers return to create and follow a weekly schedule for multiple weeks, rather than only saying that the idea sounds fun. I would treat low repeat use as a warning sign; specifically, if fewer than about half of testers use the prototype in a second week or if most feedback says they would rather stay with their current calendar, I would pivot toward a simpler planning aid or reconsider the target user. This test matters more than initial survey interest because retention shows whether gamification reduces planning friction instead of adding another feature users ignore.
