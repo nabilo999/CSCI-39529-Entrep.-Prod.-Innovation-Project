@@ -81,3 +81,17 @@ As the only founder, I will initially own 100% of the company's membership inter
 ### 3. The Software IP Protection Protocol
 
 I will use copyright protection for the app's original source code, interface artwork, mascot illustrations, and written templates, and pursue registration for key original works. I will search for conflicting brands before choosing the final app name and logo, then seek federal trademark registration for the brand identifiers used with the service. At formation, I will sign an intellectual property assignment transferring my existing app-related IP to the company, and require external developers and designers to sign written agreements assigning ownership of their project deliverables to the company. Before sharing confidential code, unreleased designs, or proprietary recommendation logic with prospective partners, I will use confidentiality agreements and limited access, while partnership contracts will define permitted uses and ownership of jointly developed work. I will also track open-source and third-party licenses and keep repositories, domains, and production accounts under company control so the business can demonstrate its ownership and usage rights.
+
+## Project Log 7: Team Assembly and Competency Mapping
+
+### 1. The Core Capabilities and Diversity Matrix
+
+As the sole founder, I would classify my team as primarily homogeneous because the project draws on one person's education and experience, with most of my skills concentrated in software development. My strongest skills are building, testing, and deploying the scheduling app, so I can take a change from a user's suggestion to a working feature on my own. I also have some design experience, enough to put together a demo or a promotional graphic that shows how the weekly planner works. Working alone lets me make product decisions quickly, but time I spend promoting the app also cuts into the time I have to build it.
+
+### 2. The Skills Gap and Recruitment Pipeline
+
+My biggest gaps are marketing and sales, especially reaching users, and presenting the app clearly. I will study how competing apps demonstrate their value and test two pitches of my own, one about building a weekly routine and one about the game's rewards. I will practice both pitches, track engagement and ask what would make the app worthwhile. If those demos bring in interested users but I need help reaching more of them, I can recruit a paid, part-time marketer.
+
+### 3. The De-Risking Network Strategy
+
+I will attend startup meetups and demo nights to find a founder who has brought a consumer productivity app to market. I will ask that founder to review my pitch and point out where I could better explain why someone would choose my planner over a familiar calendar. I will also reach out to productivity coaches who help people plan around work, family commitments, and personal goals, and invite them to try the app with a weekly routine they know well. With their permission, I can show prospective users how a coach used the planner and explain to potential investors what I changed based on that coach's advice.
