@@ -95,3 +95,21 @@ My biggest gaps are marketing and sales, especially reaching users, and presenti
 ### 3. The De-Risking Network Strategy
 
 I will attend startup meetups and demo nights to find a founder who has brought a consumer productivity app to market. I will ask that founder to review my pitch and point out where I could better explain why someone would choose my planner over a familiar calendar. I will also reach out to productivity coaches who help people plan around work, family commitments, and personal goals, and invite them to try the app with a weekly routine they know well. With their permission, I can show prospective users how a coach used the planner and explain to potential investors what I changed based on that coach's advice.
+
+## Project Log 8: Market Segmentation, Targeting, and Positioning
+
+### 1. The Market Segmentation Matrix
+
+I split the personal planning market by what people do (job), how much their schedules change from week to week, and what they already use to plan. College students balancing classes with work or other commitments may use a class schedule, a phone calendar, and notes to piece together their week. Students whose schedules mostly revolve around school may use an academic planner to keep track of classes, assignments, and exams. Early-career office workers usually plan around set work hours and use an employer's calendar to keep track of meetings. Freelancers have to fit changing client schedules and deadlines into one week, often using a calendar and a separate task list.
+
+### 2. The Target Niche Validation
+
+I want to start with college students who have to make time for classes, studying, and commitments outside of school. In 2022, about four in ten full-time U.S. undergraduates were employed. If a shift changes or a club meeting runs long, the time they set aside for studying can get pushed back or dropped. [National Center for Education Statistics](https://nces.ed.gov/programs/digest/d23/tables/dt23_503.40.asp)
+
+I can reach these students through classmates, student clubs, and college group chats. Google Calendar and Outlook are familiar tools, and students can use Tamie to build and adjust a weekly routine before sending it to the calendar they already use. I would ask students to walk me through how they planned last week and where they had to rearrange things. Then I would see whether at least half of the testers come back to build or adjust a real schedule in week two, as proposed in Log 3.
+
+### 3. The Product Attribute Position
+
+I would put flexibility on the horizontal axis and playfulness on the vertical axis. Flexibility is how easily students can move things around and reuse a weekly routine. Playfulness is how much the act of planning feels like play. I would put Google Calendar and Outlook near the middle on flexibility and lower on playfulness because the main interaction is adding and editing individual events. MyStudyLife would sit nearby, with more emphasis on classes and assignments. I would put Tamie toward the upper right because an animated dispenser drops colorful activity blocks into the workspace, and students drag and snap those blocks into a weekly schedule they can save and adjust later.
+
+*Snap your week into place, one block at a time.*
